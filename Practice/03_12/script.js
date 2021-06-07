@@ -71,6 +71,7 @@ console.log(Tube);
 console.log(Tube.compAge())
 console.log(Transistor);
 console.log(Transistor.compAge());
+console.log(Transistor.ratio);
 
 export var dude = 'hommy';
 export default Tube;
